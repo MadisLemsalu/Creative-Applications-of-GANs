@@ -1,6 +1,6 @@
 # Creative-Applications-of-GANs
 
-During my semester abroad in South Korea I completed Kadenze's'Creative Applications of Deep Learning with TensorFlow' 600$ course that was taught and graded by a teacher. The course was paid by University of Twente and is part of my undergraduate degree credits. Here are some of the examples of the works I produced in the course: 
+During my semester abroad in South Korea I completed Kadenze's 'Creative Applications of Deep Learning with TensorFlow' 600$ course that was taught and graded by a teacher. The course was paid by University of Twente and is part of my undergraduate degree credits. Here are some of the examples of the works I produced in the course: 
 
 
 ## CycleGAN: From apple to orange
