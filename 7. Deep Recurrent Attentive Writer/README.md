@@ -1,0 +1,3 @@
+I used DRAW network to generate Devanagari characters. I used Devanagari as the regular MNIST characters are already saturated and I was curious on how it would be applied on a new dataset. Devanagari writing system has become the standard script for Sanskrit. On first sight, this compact, phonetic script with its focus on precise pronunciation appears quite complex. But Devanagari is easier than you might think. Moreover, the dataset is small as Devanagari doesn't use upper and lower cases.
+
+I was surprised by the quality of the prediction only after training for about 30 min. I didn't perform hyperparameter optimization and I was consequently surprised on the model's performance.
