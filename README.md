@@ -1,2 +1,2 @@
 # Creative-Applications-of-GANs
-![](/2. Image Inpainting/final.gif)
+[[https://github.com/MadisLemsalu/Creative-Applications-of-GANs/blob/main/2.%20Image%20Inpainting/final.gif|alt=octocat]]
